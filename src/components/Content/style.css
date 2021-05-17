@@ -1,0 +1,33 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+    background: lightseagreen;
+    flex: 4;
+    overflow-y: scroll;
+}
+
+.incr-decr {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    font-size: 2em;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background: white;
+    color: lightseagreen;
+}
+
+span {
+    font-size: 2em;
+}

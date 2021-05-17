@@ -1,0 +1,15 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.row {
+    display: flex;
+    height: 80vh;
+    color: white;
+}
+
+.flex-1 {
+    flex: 1;
+}

@@ -1,0 +1,9 @@
+.nav {
+    height: 20vh;
+    padding: 2rem;
+    background: peru;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
